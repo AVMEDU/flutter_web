@@ -121425,7 +121425,7 @@ r($,"bqs","aWq",()=>$.b5u())
 s($,"buZ","b81",()=>new A.I())
 s($,"brf","aSi",()=>B.n7.Ok(B.lb,t.X))
 s($,"bug","b7w",()=>A.bfl(B.OC))
-s($,"bqe","aam",()=>{var q="application/json",p=A.bam("http://65.1.225.61:9095/",B.Lu,A.a2(["content-type",q,"Accept",q],t.N,t.z),B.Lo),o=new A.agz(A.b3X(),new A.UC(A.a([B.FJ],A.ac("o<iS?>"))),A.b3X(),new A.akQ(51200),!1)
+s($,"bqe","aam",()=>{var q="application/json",p=A.bam("http://65.1.225.61:9095/",B.Lu,A.a2(["content-type",q,"Accept",q,"Access-Control-Allow-Origin","*","Access-Control-Allow-Credentials",!0,"Access-Control-Allow-Headers","Origin,Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token,locale","Access-Control-Allow-Methods","POST, OPTIONS, GET, PUT"],t.N,t.z),B.Lo),o=new A.agz(A.b3X(),new A.UC(A.a([B.FJ],A.ac("o<iS?>"))),A.b3X(),new A.akQ(51200),!1)
 o.vi$=p
 o.a2Y$=new A.acU(A.aG(t.lZ))
 return o})
