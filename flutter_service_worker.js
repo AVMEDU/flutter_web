@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "2b53d061ba9092dc006ea07d44c4d4ef",
+const RESOURCES = {"flutter_bootstrap.js": "3067de1b8ac6912f69119d6a5c265947",
 "version.json": "8457eceb79ad1bf5ef5d0fdae524cd89",
 "index.html": "4cd991306fe92079b9f9dc938de7241f",
 "/": "4cd991306fe92079b9f9dc938de7241f",
-"main.dart.js": "08a479d294b8a8aeb45524317834dae0",
+"main.dart.js": "0d604a1d58b3d6f2f41d82a725af8b41",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -46,7 +46,7 @@ const RESOURCES = {"flutter_bootstrap.js": "2b53d061ba9092dc006ea07d44c4d4ef",
 "assets/assets/images/login_header.png": "ce2d16e9895ca9a284d6343d18f7136e",
 "assets/assets/images/main_bottom.png": "322c8b4cda43fe21e0d78a1f30f387ce",
 "assets/assets/images/login_footer.png": "8eb8d4a32112582b9e73dcf831d8d034",
-"assets/assets/markdown/privacy_policy.md": "1463d72cd7d496c58817d58fce5dfe5f",
+"assets/assets/markdown/privacy_policy.md": "c3030ca019fb5dd358693fb4af3da06e",
 "assets/assets/icons/login.svg": "a7711b1f104c98c8ae18420653074837",
 "assets/assets/icons/chat.svg": "6603c9da23d55c3ab75cf052cf2e5b53",
 "assets/assets/icons/facebook.svg": "e44d4dd6594e6ae6718a89059f29cdc7",
